@@ -1,0 +1,4 @@
+{
+    "jwt_secreat_key": "algo8_AI_key",
+    "db_limit": 10
+}
